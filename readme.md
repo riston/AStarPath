@@ -2,8 +2,8 @@
 
 ## Usage
 
-Currently the Map object is filled from the string based map, but there is no problem to create load from file or
-whatever different ways of base map representations.
+Currently the Map object is filled from the string based map, but there is no problem to create loader from file or
+whatever format of base map representations.
 
 There are three types of Tiles:
   - Floor - walkable tile
